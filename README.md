@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 Hola, Mi nombre es Andrés Silvera, tengo 23 años, soy estudiante de programación y desarrollo de software,<br>Soy un gran apasionado del mundo de la programación, mi campo de interés es la programación del lado del servidor, <br>me gusta construir y programar aplicaciones de software, así como también el desarrollo de productos de software en equipo por medio de marcos de trabajos agiles,<br>codifico aplicaciones a través de mi Stack tecnológico: Python, JavaScript, SQL, NoSQL, Unit Testing, GIT,<br>Abierto a contribuir y seguir aprendiendo del mundo de la programación.
 
 
